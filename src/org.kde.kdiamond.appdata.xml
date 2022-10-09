@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.kde.kdiamond.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KDiamond</name>
+  <name xml:lang="ca">KDiamond</name>
+  <name xml:lang="ca-valencia">KDiamond</name>
+  <name xml:lang="cs">KDiamond</name>
+  <name xml:lang="da">KDiamond</name>
+  <name xml:lang="de">KDiamond</name>
+  <name xml:lang="el">KDiamond</name>
+  <name xml:lang="en-GB">KDiamond</name>
+  <name xml:lang="es">KDiamond</name>
+  <name xml:lang="et">KDiamond</name>
+  <name xml:lang="eu">KDiamond</name>
+  <name xml:lang="fr">KDiamond</name>
+  <name xml:lang="gl">KDiamond</name>
+  <name xml:lang="id">KDiamond</name>
+  <name xml:lang="it">KDiamond</name>
+  <name xml:lang="ko">KDiamond</name>
+  <name xml:lang="nl">KDiamond</name>
+  <name xml:lang="nn">KDiamond</name>
+  <name xml:lang="pl">KDiament</name>
+  <name xml:lang="pt">KDiamond</name>
+  <name xml:lang="pt-BR">KDiamond</name>
+  <name xml:lang="ro">KDiamond</name>
+  <name xml:lang="ru">KDiamond</name>
+  <name xml:lang="sk">KDiamond</name>
+  <name xml:lang="sl">KDiamond</name>
+  <name xml:lang="sv">Kdiamant</name>
+  <name xml:lang="uk">KDiamond</name>
+  <name xml:lang="x-test">xxKDiamondxx</name>
+  <name xml:lang="zh-CN">KDiamond</name>
+  <name xml:lang="zh-TW">KDiamond</name>
+  <summary>KDiamond is a three-in-a-row game by KDE</summary>
+  <summary xml:lang="ca">El KDiamond és un joc de tres en ratlla fet per la comunitat KDE</summary>
+  <summary xml:lang="ca-valencia">El KDiamond és un joc de tres en ratlla fet per la comunitat KDE</summary>
+  <summary xml:lang="de">KDiamond, ein Drei-Gewinnt-Spiel von KDE</summary>
+  <summary xml:lang="el">Το KDiamond είναι ένα παιχνίδι τρία-στη-σειρά από το KDE</summary>
+  <summary xml:lang="en-GB">KDiamond is a three-in-a-row game by KDE</summary>
+  <summary xml:lang="es">KDiamond es un juego de tres en raya creado por KDE</summary>
+  <summary xml:lang="et">KDiamond on KDE "kolm ühes reas" mäng.</summary>
+  <summary xml:lang="eu">KDiamond KDEren hiruko artzain joko bat da</summary>
+  <summary xml:lang="fr">KDiamond est un jeu de « Trois-en-ligne » par KDE.</summary>
+  <summary xml:lang="gl">KDiamond é un xogo de tres en raia de KDE</summary>
+  <summary xml:lang="id">KDiamond adalah sebuah permainan sederet tiga (three-in-a-row) oleh KDE</summary>
+  <summary xml:lang="it">KDiamond è un gioco del tris della comunità KDE</summary>
+  <summary xml:lang="ko">KDiamond는 KDE의 돌 세 개 맞추기 게임입니다</summary>
+  <summary xml:lang="nl">KDiamond, een drie-op-een-rij spel door KDE</summary>
+  <summary xml:lang="nn">KDiamond er eit tre-på-rad-spel frå KDE</summary>
+  <summary xml:lang="pl">KDiament jest grą trzy-w-rzędzie dla KDE</summary>
+  <summary xml:lang="pt">O KDiamond é um jogo de três-em-linha do KDE</summary>
+  <summary xml:lang="pt-BR">O KDiamond é um jogo três em linha do KDE</summary>
+  <summary xml:lang="ro">KDiamond e un joc KDE de trei-în-linie</summary>
+  <summary xml:lang="sk">KDiamond je hra KDE o troch v rade</summary>
+  <summary xml:lang="sl">KDiamond je igra 'treh v vrsto' v KDE</summary>
+  <summary xml:lang="sv">Kdiamant är ett tre-i-rad spel av KDE</summary>
+  <summary xml:lang="uk">KDiamond — гра у три-у-ряд від KDE</summary>
+  <summary xml:lang="x-test">xxKDiamond is a three-in-a-row game by KDExx</summary>
+  <description>
+    <p>
+      KDiamond is a single player puzzle game. The object of the game is to build lines of three similar diamonds.
+    </p>
+    <p xml:lang="ca">El KDiamond és un joc de puzzle per a un únic jugador. L'objectiu del joc és construir línies de tres diamants semblants.</p>
+    <p xml:lang="ca-valencia">El KDiamond és un joc de puzzle per a un únic jugador. L'objectiu del joc és construir línies de tres diamants semblants.</p>
+    <p xml:lang="de">KDiamond ist ein Rätsel-Spiel für einen Spieler. Das Ziel des Spiels ist, Linien mit drei gleichen Diamanten zu bauen.</p>
+    <p xml:lang="el">Το KDiamond είναι ένα παιχνίδι παζλ για έναν παίκτη. Ο σκοπός του παιχνιδιού είναι να κατασκευαστούν γραμμές από τρία παρόμοια διαμάντια.</p>
+    <p xml:lang="en-GB">KDiamond is a single player puzzle game. The object of the game is to build lines of three similar diamonds.</p>
+    <p xml:lang="es">KDiamond es un juego de rompecabezas para un único jugador. El objetivo del juego es el de construir líneas de tres diamantes idénticos.</p>
+    <p xml:lang="et">KDiamond on ühe mängijaga nuputamismäng. Mängu siht on luua kolmest ühesugusest rombist ridu.</p>
+    <p xml:lang="eu">KDiamond jokalari bakarreko buruhausteko joko bat da. Jokoaren helburua  antzeko hiru diamanteko lerroak osatzea da.</p>
+    <p xml:lang="fr">KDiamond est un jeu de puzzle à un seul joueur. L'objectif du jeu est de construire des lignes comprenant trois diamants semblables.</p>
+    <p xml:lang="gl">KDiamond é un xogo de quebracabezas para un xogador. O obxectivo do xogo é construír liñas de tres rombos semellantes.</p>
+    <p xml:lang="id">KDiamond adalah sebuah permainan teka-teki pemain tunggal. Sasaran permainan ini adalah untuk membangun sebaris-tiga berlian-berlian yang mirip</p>
+    <p xml:lang="it">KDiamond è un puzzle a giocatore singolo. L'obiettivo del gioco è costruire delle linee di tre diamanti simili.</p>
+    <p xml:lang="ko">KDiamond는 단일 플레이어 퍼즐 게임입니다. 게임의 목표는 색이 같은 다이아몬드 세 개 이상을 한 줄로 맞추는 것입니다.</p>
+    <p xml:lang="nl">KDiamond is een puzzelspel voor een enkele speler. Het doel van het spel is om drie gelijke ruiten op één rij te krijgen.</p>
+    <p xml:lang="nn">KDiamond er eit tenkjespel for éin spelar. Målet er å frå tre diamantar av same type på éi linje.</p>
+    <p xml:lang="pl">KDiament jest grą z puzzlami dla jednego gracza. Celem gry jest tworzenie rzędów trzech podobnych diamentów.</p>
+    <p xml:lang="pt">O KDiamond é um jogo de 'puzzles' para um único jogador. O objectivo do jogo é construir linhas com três diamantes semelhantes.</p>
+    <p xml:lang="pt-BR">KDiamond é um jogo de quebra-cabeças para um jogador. O objetivo do jogo é construir linhas com três diamantes similares.</p>
+    <p xml:lang="sk">KDiamond je logická hra pre jedného hráča. Cieľom hry je postaviť línie troch podobných diamantov.</p>
+    <p xml:lang="sl">KDiamond je igra za enega igralca. Cilj igre je zgraditi vrsto treh podobnih rombov (diamantov).</p>
+    <p xml:lang="sv">Kdiamant är ett pusselspel för en spelare. Spelets mål är att bygga rader av tre liknande diamanter.</p>
+    <p xml:lang="uk">KDiamond — гра-головоломка для одного гравця. Метою гри є побудова лінії з трьох однакових діамантів.</p>
+    <p xml:lang="x-test">xxKDiamond is a single player puzzle game. The object of the game is to build lines of three similar diamonds.xx</p>
+  </description>
+  <url type="homepage">https://games.kde.org/games/kdiamond</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdiamond</url>
+  <url type="help">https://docs.kde.org/?application=kdiamond</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kdiamond&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Playing KDiamond</caption>
+      <caption xml:lang="ca">Jugant al KDiamond</caption>
+      <caption xml:lang="ca-valencia">Jugant al KDiamond</caption>
+      <caption xml:lang="de">KDiamond spielen</caption>
+      <caption xml:lang="el">Παίζω KDiamond</caption>
+      <caption xml:lang="en-GB">Playing KDiamond</caption>
+      <caption xml:lang="es">Jugando a KDiamond</caption>
+      <caption xml:lang="et">KDiamondi mängimine</caption>
+      <caption xml:lang="eu">KDiamond-ean jolastea</caption>
+      <caption xml:lang="fr">Partie de KDiamond en cours</caption>
+      <caption xml:lang="gl">Xogando a KDiamond</caption>
+      <caption xml:lang="id">Memainkan KDiamond</caption>
+      <caption xml:lang="it">Giocare a KDiamond</caption>
+      <caption xml:lang="ko">KDiamond 플레이</caption>
+      <caption xml:lang="nl">KDiamond spelen</caption>
+      <caption xml:lang="nn">Spelar KDiamond</caption>
+      <caption xml:lang="pl">Granie w KDiament</caption>
+      <caption xml:lang="pt">Jogar ao KDiamond</caption>
+      <caption xml:lang="pt-BR">Jogando KDiamond</caption>
+      <caption xml:lang="ro">Joc de KDiamond</caption>
+      <caption xml:lang="sk">Hranie KDiamond</caption>
+      <caption xml:lang="sl">Igra KDiamond</caption>
+      <caption xml:lang="sv">Spela Kdiamant</caption>
+      <caption xml:lang="uk">Гра у KDiamond</caption>
+      <caption xml:lang="x-test">xxPlaying KDiamondxx</caption>
+      <caption xml:lang="zh-TW">KDiamond 遊玩畫面</caption>
+      <image>https://cdn.kde.org/screenshots/kdiamond/kdiamond.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="21.08.0" date="2021-08-12"/>
+    <release version="21.04.3" date="2021-07-08"/>
+    <release version="21.04.2" date="2021-06-10"/>
+    <release version="21.04.1" date="2021-05-13"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
